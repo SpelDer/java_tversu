@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+dependencies {
+}
+
+task check << {
+
+}
+
+task hello << {
+    //add your code here
+}
