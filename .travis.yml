@@ -1,3 +1,9 @@
 language: java
 
-#script: gradle -q all
+jdk:
+  - oraclejdk9
+
+env:
+  - $PROJECT_DIR=tversu-first-project
+
+script: cd $PROJECT_DIR && ./gradlew assemble && ./gradlew check
