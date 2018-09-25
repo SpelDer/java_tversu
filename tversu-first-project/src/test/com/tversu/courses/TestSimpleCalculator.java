@@ -1,6 +1,5 @@
-package test.com.tversu.courses;
+package tversu.courses;
 
-import com.tversu.courses.SimpleCalculator;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -8,7 +7,6 @@ import org.junit.Test;
 public class TestSimpleCalculator
 {
   private SimpleCalculator calculator;
-  
   
   @Test
   public void testAdd()

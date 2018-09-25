@@ -1,4 +1,4 @@
-package com.tversu.courses;
+package tversu.courses;
 
 public class Main
 {
