@@ -31,7 +31,12 @@ public class TestSimpleCalculator
   @Before
   public void setUp() throws Exception
   {
-    calculator = new SimpleCalculator();
+    calculator = initCalculator();
+  }
+  
+  private SimpleCalculator initCalculator()
+  {
+    return new SimpleCalculator();
   }
   
   @After
