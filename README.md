@@ -8,4 +8,6 @@
 
 3.Делаем форк, решаем домашки, присылаем pull request. Для каждого из студентов в этом репозитории будет своя ветка для pull-request'ов. Формат персональной ветки t-name (где name ваш никнейм на github).
 
+Общаться и задавать вопросы можно в  [Slack](https://join.slack.com/t/pytvsu/shared_invite/enQtNDQxODEyNDQ1MTg3LTY0NGRlNmVlMDQzY2Y5MmNiYjU4ODMyZjNjNjJmMGVlZjJkMjNiOTU0ODMwYTc2MGM4ZDEyOTlkY2FjZjQyNDM)
+
 Почта для связи: simonoff.n.a@yandex.ru
