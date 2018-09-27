@@ -1,8 +1,5 @@
 language: java
 
-jdk:
-   - openjdk10
-
 env:
   - $PROJECT_DIR=tversu-first-project
 
